@@ -1,6 +1,6 @@
-package entity;
+package org.glsid.ebankingbackend.entity;
 
-import enums.AccountStatus;
+import org.glsid.ebankingbackend.enums.AccountStatus;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;

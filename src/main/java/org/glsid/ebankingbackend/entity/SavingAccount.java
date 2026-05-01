@@ -1,4 +1,4 @@
-package entity;
+package org.glsid.ebankingbackend.entity;
 
 import jakarta.persistence.DiscriminatorValue;
 import jakarta.persistence.Entity;

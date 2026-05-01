@@ -1,4 +1,4 @@
-package entity;
+package org.glsid.ebankingbackend.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
